@@ -9,3 +9,5 @@ this is not good man;
 <<<<<<< HEAD
 new 4 add
 add neew onr
+
+bug repair!!!
