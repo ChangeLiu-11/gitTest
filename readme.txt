@@ -6,4 +6,8 @@ a new push will be given
 this is not good man;
 =======
 >>>>>>> new1
+<<<<<<< HEAD
 nothing
+=======
+go out 2
+>>>>>>> new2
