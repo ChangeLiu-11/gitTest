@@ -6,3 +6,4 @@ a new push will be given
 this is not good man;
 =======
 >>>>>>> new1
+nothing
