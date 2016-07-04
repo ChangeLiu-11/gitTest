@@ -1,4 +1,3 @@
-thi si si is
 Git is distributed a version control system
 Git is free software distributed under th GPL
 Git has a mutable index called stage
@@ -9,3 +8,4 @@ this is not good man;
 >>>>>>> new1
 <<<<<<< HEAD
 new 4 add
+add neew onr
