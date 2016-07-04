@@ -8,3 +8,4 @@ this is not good man;
 =======
 >>>>>>> new1
 <<<<<<< HEAD
+new 4 add
